@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack+developer;Machine+learning+tinkerer;WebGPU+%26+graphics+enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/lucadumi?tab=followers"><img src="https://img.shields.io/github/followers/lucadumi?label=Followers&style=for-the-badge&color=blue" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=lucadumi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer;AI+%26+ML+Developer;Full-stack+Web+Developer;Always+building+something" alt="Typing SVG" />
 </p>
 
 ---
