@@ -6,16 +6,6 @@
 
 ---
 
-## 💫 About Me:
-
-- 🔭 Currently building **[growly](https://github.com/lucadumi/growly)** — a habit tracker on Next.js + Prisma
-- 🧪 Experimenting with LLM tooling in **[promptql](https://github.com/lucadumi/promptql)** and **[notion-mcp](https://github.com/lucadumi/notion-mcp)**
-- 🎨 Playing with real-time rendering in **[caustic](https://github.com/lucadumi/caustic)** and **[lodestone](https://github.com/lucadumi/lodestone)**
-- 📈 Forecasting things I probably shouldn't in **[sibyl](https://github.com/lucadumi/sibyl)**
-- ⚡ Fun fact: most of my bugs are solved on the walk to get coffee
-
----
-
 ## 💻 Tech Stack:
 
 ### Languages
@@ -56,17 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucadumi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucadumi&theme=dark&hide_border=false" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucadumi&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top languages" />
-</p>
+## 📊 Contribution Activity:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucadumi&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
@@ -83,5 +63,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by — feel free to poke around the repos ⭐</i>
+  <i>Thanks for stopping by — feel free to poke around the repos</i>
 </p>
