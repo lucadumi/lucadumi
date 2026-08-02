@@ -6,6 +6,20 @@
 
 ---
 
+## 🚀 Projects:
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[caustic](https://github.com/lucadumi/caustic)** · [live](https://cstic.vercel.app) | A physically based path tracer that runs on the GPU in your browser | JavaScript · WGSL · WebGPU |
+| **[lodestone](https://github.com/lucadumi/lodestone)** · [live](https://ldstone.vercel.app) | An interactive linker that shows its work — then assembles a real ELF binary and runs it in the tab | JavaScript · C · Python |
+| **[promptql](https://github.com/lucadumi/promptql)** | Fine-tuning a 0.5B LLM for text-to-SQL with LoRA, scored on a held-out set written by an independent author | PyTorch · Transformers · LoRA |
+| **[sibyl](https://github.com/lucadumi/sibyl)** | Leak-free walk-forward backtest for volatility forecasting, net of trading costs | PyTorch · scikit-learn · statsmodels |
+| **[growly](https://github.com/lucadumi/growly)** · [live](https://growly.my) | A calm habit tracker built for busy days | Next.js · Prisma · Postgres |
+| **[am-loc](https://github.com/lucadumi/am-loc)** | Community-driven app for Bucharest's parking problem | React Native · Expo · TypeScript |
+| **[notion-mcp](https://github.com/lucadumi/notion-mcp)** | MCP server that lets Claude read and write a Notion workspace | Python · FastMCP |
+
+---
+
 ## 💻 Tech Stack:
 
 ### Languages
@@ -40,7 +54,6 @@
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -48,14 +61,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucadumi&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
 </p>
 
 ---
