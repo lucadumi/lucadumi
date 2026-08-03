@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer;AI+%26+ML+Developer;Full-stack+Web+Developer;Always+building+something" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://lucaos.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-lucaos.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 💻 Tech Stack:
@@ -52,5 +58,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by — feel free to poke around the repos</i>
+  <i>Thanks for stopping by — feel free to poke around the repos, or check out my <a href="https://lucaos.vercel.app">portfolio</a></i>
 </p>
