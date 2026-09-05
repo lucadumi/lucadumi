@@ -49,14 +49,6 @@
 
 ---
 
-## 📊 Contribution Activity:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucadumi&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
-</p>
-
----
-
 <p align="center">
   <i>Thanks for stopping by — feel free to poke around the repos, or check out my <a href="https://lucaos.vercel.app">portfolio</a></i>
 </p>
