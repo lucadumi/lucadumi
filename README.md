@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! Feel free to poke around the repos, or check out my <a href="https://lucaos.vercel.app">portfolio</a></i>
+  <i>Thanks for stopping by! Feel free to poke around the repos!</i>
 </p>
